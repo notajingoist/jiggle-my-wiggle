@@ -9,6 +9,12 @@
 
 /* Others */
 - Design, cosmetics
+  o patterns
+- Attack the Sperm:
+  o Sprinkle salt --> make them jump
+- Sound:
+  o "What the..!" when sperm first appear
+  o "Pew! pewpewpewppew!!" when they start attacking
 
 /* Questions */
 - how to attack/kill the sperm?
