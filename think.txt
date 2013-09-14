@@ -1,3 +1,5 @@
+Impreggnate
+
 /* First steps */
 - Read up on paper.js
 - Set up the page index.html
