@@ -23,6 +23,15 @@ Impreggnate!!
 - what happens when the egg is successfully cooked
 - webcam access? --> how does this work with mobile?
 
+/* More Ideas! */
+-lawnmower + spooky house + bunnies
+-quiche - wiggle, jiggle!
+-gallery of feelings
+-room + prisoner's dilemma
+-eyeball + track motion via webcam
+-blender - throwing things in there
+-rhyming word duels (e.g. perm vs. sperm)
+
                _,........__
             ,-'            "`-.
           ,'                   `-.
