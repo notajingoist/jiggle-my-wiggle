@@ -31,6 +31,11 @@ Impreggnate!!
 -eyeball + track motion via webcam
 -blender - throwing things in there
 -rhyming word duels (e.g. perm vs. sperm)
+-gallery of sounds
+  o door creaking
+  o safari crashing eehhh
+  o jam
+-shoe + gum
 
                _,........__
             ,-'            "`-.
