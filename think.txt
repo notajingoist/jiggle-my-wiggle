@@ -41,7 +41,9 @@ Impreggnate!!
 -website to illustrate noelle's dreams
 -rug
 -linking to specific part of page
--read-only facebook
+-read-only facebook (to prevent friends with malicious intentions from making statuses on your behalf)
+-shredded lettuce, metal band - record sounds!
+-goldfish pedicure
 
                _,........__
             ,-'            "`-.
